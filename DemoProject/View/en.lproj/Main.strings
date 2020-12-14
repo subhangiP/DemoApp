@@ -1,0 +1,99 @@
+
+/* Class = "UILabel"; text = "12/12/2020 4:00 PM"; ObjectID = "31E-NH-KYt"; */
+"31E-NH-KYt.text" = "12/12/2020 4:00 PM";
+
+/* Class = "UINavigationItem"; title = "Add Task"; ObjectID = "3QX-tT-1Oi"; */
+"3QX-tT-1Oi.title" = "Add Task";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "4N2-G1-nSM"; */
+"4N2-G1-nSM.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Nw-xp-GRk"; */
+"4Nw-xp-GRk.text" = "Label";
+
+/* Class = "UILabel"; text = "Add Task"; ObjectID = "4e2-Td-ugy"; */
+"4e2-Td-ugy.text" = "Add Task";
+
+/* Class = "UINavigationItem"; title = "Stop Watch"; ObjectID = "5yb-4f-7ov"; */
+"5yb-4f-7ov.title" = "Stop Watch";
+
+/* Class = "UITabBarItem"; title = "To-Do"; ObjectID = "6m0-y3-M9j"; */
+"6m0-y3-M9j.title" = "To-Do";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "8aN-qF-8Av"; */
+"8aN-qF-8Av.normalTitle" = "Clear";
+
+/* Class = "UIButton"; normalTitle = "Decrypt"; ObjectID = "BJH-ot-E6P"; */
+"BJH-ot-E6P.normalTitle" = "Decrypt";
+
+/* Class = "UIButton"; normalTitle = "Encrypt"; ObjectID = "CQ2-Kh-4qf"; */
+"CQ2-Kh-4qf.normalTitle" = "Encrypt";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "CTO-3u-vib"; */
+"CTO-3u-vib.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Buy Milk"; ObjectID = "D3h-0f-ZdG"; */
+"D3h-0f-ZdG.text" = "Buy Milk";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "FpS-J8-zAV"; */
+"FpS-J8-zAV.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Encrypted / Decrypted Sreing"; ObjectID = "ITD-JM-1ix"; */
+"ITD-JM-1ix.text" = "Encrypted / Decrypted Sreing";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Oin-VH-VuC"; */
+"Oin-VH-VuC.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Arabic"; ObjectID = "RBR-Ms-pZr"; */
+"RBR-Ms-pZr.normalTitle" = "Arabic";
+
+/* Class = "UITextField"; placeholder = "Secret Key"; ObjectID = "SaC-Ju-Zct"; */
+"SaC-Ju-Zct.placeholder" = "Secret Key";
+
+/* Class = "UITabBarItem"; title = "Stopwatch"; ObjectID = "YKl-df-BgX"; */
+"YKl-df-BgX.title" = "Stopwatch";
+
+/* Class = "UITextField"; placeholder = "Secret Key"; ObjectID = "Zaj-WQ-gqp"; */
+"Zaj-WQ-gqp.placeholder" = "Secret Key";
+
+/* Class = "UILabel"; text = "DEMO APP"; ObjectID = "aje-Yh-GML"; */
+"aje-Yh-GML.text" = "DEMO APP";
+
+/* Class = "UILabel"; text = "DEMO APP"; ObjectID = "aph-E7-MQy"; */
+"aph-E7-MQy.text" = "DEMO APP";
+
+/* Class = "UINavigationItem"; title = "Encryption"; ObjectID = "bPd-V6-ogB"; */
+"bPd-V6-ogB.title" = "Encryption";
+
+/* Class = "UITabBarItem"; title = "Encryption"; ObjectID = "cjm-4Y-lWG"; */
+"cjm-4Y-lWG.title" = "Encryption";
+
+/* Class = "UINavigationItem"; title = "To-do-List"; ObjectID = "dhu-t6-VMH"; */
+"dhu-t6-VMH.title" = "To-do-List";
+
+/* Class = "UIButton"; normalTitle = "Encrypt"; ObjectID = "ggv-OQ-Os6"; */
+"ggv-OQ-Os6.normalTitle" = "Encrypt";
+
+/* Class = "UILabel"; text = "12: 35: 40"; ObjectID = "gu1-bL-XGn"; */
+"gu1-bL-XGn.text" = "12: 35: 40";
+
+/* Class = "UIButton"; normalTitle = "Decrypt"; ObjectID = "nXA-lX-phx"; */
+"nXA-lX-phx.normalTitle" = "Decrypt";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "rbH-9q-lxA"; */
+"rbH-9q-lxA.normalTitle" = "Save";
+
+/* Class = "UITextView"; text = "Message"; ObjectID = "tJy-dj-r0v"; */
+"tJy-dj-r0v.text" = "Message";
+
+/* Class = "UILabel"; text = "Encrypted / Decrypted Sreing"; ObjectID = "v8o-jy-FBR"; */
+"v8o-jy-FBR.text" = "Encrypted / Decrypted Sreing";
+
+/* Class = "UIButton"; normalTitle = "Pause"; ObjectID = "xMb-9M-fA5"; */
+"xMb-9M-fA5.normalTitle" = "Pause";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "xPg-c5-FeD"; */
+"xPg-c5-FeD.normalTitle" = "Reset";
+
+/* Class = "UITextView"; text = "Messagehfhksdjfhksdfj"; ObjectID = "ykV-ME-Mmg"; */
+"ykV-ME-Mmg.text" = "Messagehfhksdjfhksdfj";
