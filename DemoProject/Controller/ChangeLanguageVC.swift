@@ -44,11 +44,13 @@ class ChangeLanguageVC: UIViewController {
     
     private func setInitialSetUp(){
         if (UserDefaults.standard.value(forKey: defaultsKeys.language) as! String) == Language.english.rawValue {
+            currentLanguage = Language.english
             btnEnglish.setTitle(LocalizableString.English.rawValue.localizableString(loc: LanguageCode.english.rawValue), for: .normal)
             btnArabic.setTitle(LocalizableString.Arabic.rawValue.localizableString(loc: LanguageCode.english.rawValue), for: .normal)
             btnSave.setTitle(LocalizableString.Save.rawValue.localizableString(loc: LanguageCode.english.rawValue), for: .normal)
             self.navigationItem.title = LeftMenu.changeLanguage.rawValue.localizableString(loc: LanguageCode.english.rawValue)
         } else {
+            currentLanguage = Language.arabic
             btnEnglish.setTitle(LocalizableString.Arabic.rawValue.localizableString(loc: LanguageCode.arabic.rawValue), for: .normal)
             btnArabic.setTitle(LocalizableString.Arabic.rawValue.localizableString(loc: LanguageCode.arabic.rawValue), for: .normal)
             btnSave.setTitle(LocalizableString.Save.rawValue.localizableString(loc: LanguageCode.arabic.rawValue), for: .normal)
